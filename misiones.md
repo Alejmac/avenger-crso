@@ -1,3 +1,4 @@
 # Rama mas importane
 
-en esta rama te vamos a decir que hacer 
+*.investigar las misiones de Dr Domm.
+*.Capturar a Red skull.
