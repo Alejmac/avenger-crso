@@ -11,6 +11,7 @@
 * Iron Man
 * Luke Cage
 * QuickSilver
+* Nick Fury
 * Scarlet Witch
 * Spider Woman
 * Thor
